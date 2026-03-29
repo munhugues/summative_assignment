@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset
 !<img width="690" height="537" alt="image" src="https://github.com/user-attachments/assets/e534ba1b-0396-44a6-89d7-2970c723fcf4" />
 
 ## Link To video demo
-https://www.youtube.com/watch?v=SeXy5xcjycU
+h[ttps://www.youtube.com/watch?v=SeXy5xcjycU](https://youtu.be/rSkEsA4Y_rs)
 
 
 ## 🚀 Features
